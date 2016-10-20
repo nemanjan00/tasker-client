@@ -1,5 +1,7 @@
 # tasker-client
 
+tasker-client is Node.JS implementation of client for [tasker-server](https://github.com/nemanjan00/tasker-server)
+
 ## Example
 
 ```javascript
