@@ -21,8 +21,6 @@ var handler = {
 		return handler;
 	},
 	connect: function(){
-		console.log("connecting");
-
 		handler.ws = new WebSocket(handler.gate);
 
 		handler.ws.on("error", function(){
