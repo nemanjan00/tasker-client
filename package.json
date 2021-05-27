@@ -9,6 +9,6 @@
   "author": "Nemanja Nedeljković <nemanjan00@gmail.com> (https://nemanja.top/)",
   "license": "MIT",
   "dependencies": {
-    "ws": "^1.1.1"
+    "ws": "^7.4.6"
   }
 }
